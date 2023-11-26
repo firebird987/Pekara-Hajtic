@@ -207,3 +207,11 @@ a:visited
     border: 1px solid black;
     font-weight: bold;
 }
+.ponuda{
+    text-align: center;
+    font-size: 60px;
+}
+.ponuda2{
+    text-align: center;
+    font-size: 40px;
+}
