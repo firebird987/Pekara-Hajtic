@@ -191,6 +191,18 @@ a{
 }
 a:visited 
 {
-    text-decoration: none; 
+    text-decoration: none;
+    color: rgb(1, 0, 2); 
+    font-weight: bold;
+}
+
+.dodatno{
+    background-color:rgb(212, 171, 109) ;
+    font-size: 30px
     
+}
+.a-pozadina{
+    background-color: rgb(172, 26, 26);
+    border: 1px solid black;
+    font-weight: bold;
 }
