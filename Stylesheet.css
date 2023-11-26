@@ -8,7 +8,7 @@ body, html{
 }
 
 .hero-image{
-    background-image: url(Slika2.jpg);
+    background-image: url(Slike/Slika2.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
